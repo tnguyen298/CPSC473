@@ -1,0 +1,21 @@
+{
+	"type": "Collection",
+	"properties": {
+		"coffee": {
+			"name": "coffee",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "coffee",
+			"order": 0
+		},
+		"emailAddress": {
+			"name": "emailAddress",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "emailAddress",
+			"order": 1
+		}
+	}
+}
